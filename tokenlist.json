@@ -1,0 +1,21 @@
+{
+  "name": "Pepe Bomb Token List",
+  "logoURI": "https://gateway.pinata.cloud/ipfs/QmSDjh4B2oA5Yryv2Dr3LSyykf6QpUeBpKSqQCDax81zwD",
+  "keywords": ["pepe", "bomb"],
+  "timestamp": "2024-07-17T00:00:00+00:00",
+  "tokens": [
+    {
+      "chainId": 1,
+      "address": "0x0919F0D11e9209d9C9d78Cf51e7337330Ac18077",
+      "symbol": "PEPEBOMB",
+      "name": "Pepe Bomb Token",
+      "decimals": 18,
+      "logoURI": "https://gateway.pinata.cloud/ipfs/QmSDjh4B2oA5Yryv2Dr3LSyykf6QpUeBpKSqQCDax81zwD"
+    }
+  ],
+  "version": {
+    "major": 1,
+    "minor": 0,
+    "patch": 0
+  }
+}
